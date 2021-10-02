@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "AEQA,AAAA,CAAC,CACD,CAAC,AAAA,OAAO,CACR,CAAC,AAAA,QAAQ,AAAC,CACT,UAAU,CAAE,UAAU,CAAG,AAE1B,AAAA,IAAI,AAAC,CACJ,SAAS,CDVM,KAAK,CCWpB,WAAW,CDZA,SAAS,CAAC,UAAU,CCYL",
+    "sources": [
+        "../../Styles/Sass/style.sass",
+        "../../Styles/Sass/variables/_variables.sass",
+        "../../Styles/Sass/layout/_layout.sass",
+        "../../Styles/Sass/layout/header/_header.sass",
+        "../../Styles/Sass/layout/header/nav/_nav.sass",
+        "../../Styles/Sass/layout/main/_main.scss",
+        "../../Styles/Sass/layout/footer/_footer.sass",
+        "../../Styles/Sass/mediaquery/_mediaQuery.sass"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
