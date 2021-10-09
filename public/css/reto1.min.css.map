@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,AAAC,CACD,gBAAgB,CAAE,GAAG,CAAG",
+    "sources": [
+        "../../Styles/Sass/layout/main/reto1.sass"
+    ],
+    "names": [],
+    "file": "reto1.min.css"
+}
